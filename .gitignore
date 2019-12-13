@@ -15,6 +15,7 @@
 *.o
 *.sdb
 *.obj.dmp
+*.bak
 html/
 nbproject/private/
 nbproject/Package-*.bash
